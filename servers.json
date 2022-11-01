@@ -1,0 +1,18 @@
+[
+    {
+        "ParameterKey": "EnvironmentName",
+        "ParameterValue": "UdagramProjectKapil"
+    },
+    {
+        "ParameterKey": "S3CodeBucketName",
+        "ParameterValue": "udacity-404190891643"
+    } ,
+    {
+        "ParameterKey": "S3CodeArchive",
+        "ParameterValue": "udacity.zip"
+    } ,
+    {
+    	"ParameterKey":"DistributionId",
+    	"ParameterValue": "EI8CFI2XOB48T"
+    }
+]
